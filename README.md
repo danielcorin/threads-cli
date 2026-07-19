@@ -1,5 +1,12 @@
 # Threads CLI
 
+> [!IMPORTANT]
+> This repository is archived. The CLI source, API contracts, and current
+> releases now live in
+> [`danielcorin/threads-agent-tools`](https://github.com/danielcorin/threads-agent-tools/tree/main/cli).
+> Existing tags and release artifacts remain available here for historical
+> verification.
+
 Open-source, contract-derived command-line client for Threads.
 
 The repository contains the complete source for the `threads` executable, the
